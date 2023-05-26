@@ -1,0 +1,196 @@
+/* Navigation bar  */
+
+
+.navbar-brand {
+    font-family: 'Bungee Inline', cursive;
+    font-size: 25px !important;
+    color: white !important;
+}
+
+
+
+
+
+
+.navbar-brand img {
+    height: 35px;
+    position: relative;
+    bottom: 3px;
+
+}
+
+.nav-link {
+    margin: auto 20px;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    color: white !important;
+}
+
+.nav-link:hover {
+    color: red !important;
+}
+
+.nav-link:hover {
+    color: rgb(242, 242, 9) !important;
+}
+
+/* About */
+
+
+.about {
+    background-color: rgb(140, 242, 242);
+    padding: 30px;
+}
+
+h1 {
+    font-family: 'Bungee Inline', cursive;
+}
+
+span {
+    color: rgb(223, 105, 8);
+}
+
+.col-lg-8 {
+
+    margin-top: 150px !important;
+}
+
+/* .education */
+
+
+.education {
+
+    background-image: linear-gradient(rgb(140, 242, 242), rgb(217, 251, 159));
+    /* padding: 50px; */
+    text-align: center;
+
+}
+
+
+
+.edu-background {
+    background-color: rgb(135, 244, 123);
+    padding: 15px;
+    margin: 20px;
+
+
+
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+    border-width: 10px;
+    border-style: solid;
+
+}
+
+h3 {
+    font-family: 'Lilita One', cursive;
+}
+
+
+/* skills */
+
+.skills {
+    background-image: linear-gradient(rgb(216, 253, 153), rgb(99, 231, 60));
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+h2 {
+    font-family: 'Lilita One', cursive;
+}
+
+.skill-type {
+    font-family: 'Bungee Inline', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.skill-background {
+    border-image: linear-gradient(#e8c889, #900c9f) 30;
+    border-width: 5px;
+    border-style: solid;
+    padding: 15px;
+    margin: 20px;
+}
+
+
+/* projects
+ */
+
+.project {
+    background-image: linear-gradient(rgb(99, 231, 60), rgb(241, 52, 178));
+    text-align: center;
+
+}
+
+/* .cardInCarosuel {
+    width: 200px;
+
+    margin: auto;
+
+} */
+
+.card {
+    margin: 70px auto;
+    width: 40%;
+
+}
+
+.project-name {
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+.card-text {
+    margin: 0px;
+    font-weight: bold;
+
+    padding: 2px;
+}
+
+.card h4 {
+    font-family: 'Lilita One', cursive;
+}
+
+.span-button {
+
+    margin: 0px;
+}
+
+.btn {
+    margin: 5px;
+    margin: 0px;
+}
+
+@media screen and (max-width: 600px) {
+    .card {
+        margin: 70px auto;
+        width: 80%;
+    }
+}
+
+/* contact
+ */
+
+.contact {
+    text-align: center;
+    background-image: linear-gradient(rgb(241, 52, 178), rgb(241, 241, 182));
+
+}
+
+
+
+
+
+
+/* footer */
+.footer {
+    background-image: linear-gradient(rgb(241, 241, 182), rgb(30, 10, 5));
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 1.rem;
+    font-family: 'Lobster', cursive;
+
+}
