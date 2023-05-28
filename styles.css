@@ -40,6 +40,7 @@
 .about {
     background-color: rgb(140, 242, 242);
     padding: 30px;
+    margin-top:60px;
 }
 
 h1 {
@@ -50,10 +51,7 @@ span {
     color: rgb(223, 105, 8);
 }
 
-.col-lg-8 {
 
-    margin-top: 150px !important;
-}
 
 /* .education */
 
